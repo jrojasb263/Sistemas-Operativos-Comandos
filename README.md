@@ -101,6 +101,146 @@
 <td>Para eliminar una cuenta de usuario</td>
 <td>userdel Juan</td>
 </tr> 
+<tr>
+<td>apt-get</td>
+<td>Permite recuperar información y paquetes de fuentes autenticadas para gestionar, actualizar, eliminar e instalar software y sus dependencias</td>
+<td>apt-get update</td>
+</tr> 
+<tr>
+<td>su</td>
+<td>permite ejecutar un programa como un usuario diferente</td>
+<td>su [opciones] [nombredeusuario [argumento]]</td>
+</tr> 
+<tr>
+<td>docker ps</td>
+<td>Muestra los contenedores que se ejecutan en el host</td>
+<td>Image ubuntu 22.04</td>
+</tr> 
+<tr>
+<td>docker images</td>
+<td>Muestra las imágenes disponibles en el host</td>
+<td> Tag: <none>              image ID: 77af4d6b9913</td>
+</tr> 
+<tr>
+<td>docker container run <image></td>
+<td>Inicia un nuevo contenedor desde la imagen especificada o ejecuta un comando en un nuevo contenedor</td>
+<td>docker container run ubuntu</td>
+</tr> 
+<tr>
+<td>docker container attach <container></td>
+<td>Proporciona un contenedor en ejecución con flujos locales de entrada, salida y error estándar</td>
+<td>docker attach demo</td>
+</tr> 
+<tr>
+<td>docker container update <container></td>
+<td>Renueva la configuración de un contenedor</td>
+<td>docker container update demo</td>
+</tr> 
+<tr>
+<td>docker container pause <container></td>
+<td>Pone en pausa los procesos que se ejecutan en un contenedor</td>
+<td>docker container pause demo</td>
+</tr> 
+<tr>
+<td>docker container stop <container></td>
+<td>Detiene la ejecución de un contenedor</td>
+<td>docker container stop demo</td>
+</tr> 
+<tr>
+<td>docker container start <container></td>
+<td>Reanuda la ejecución de un contenedor detenido</td>
+<td>docker container start demo</td>
+</tr> 
+<tr>
+<td>docker container rm <container></td>
+<td>Elimina un contenedor del sistema</td>
+<td>docker container rm demo</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
+<tr>
+<td>XXXXX</td>
+<td>XXXXXXXX</td>
+<td>XXXXXXXX</td>
+</tr> 
 
 
   

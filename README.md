@@ -157,91 +157,14 @@
 <td>docker container rm demo</td>
 </tr> 
 <tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
+<td>nano XXXXX.sh</td>
+<td>Crea un archivo de bash</td>
+<td>nano script1.sh</td>
 </tr> 
 <tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
-</tr> 
-<tr>
-<td>XXXXX</td>
-<td>XXXXXXXX</td>
-<td>XXXXXXXX</td>
+<td>bash XXXXX.sh</td>
+<td>Sirve para correr el archivo de bash directamente</td>
+<td>bash script1.sh</td>
 </tr> 
 
-
-  
 </table>
